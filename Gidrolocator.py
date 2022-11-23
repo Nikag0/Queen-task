@@ -1,2 +1,2 @@
 print("Hello, World!");
-git status
+print(2+2)
